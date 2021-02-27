@@ -25,3 +25,6 @@ yarn-error.log*
 
 # mind-map
 /mind-map
+
+# history
+/.history
