@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Display from "./Display";
-import Keybord from "./Keybord";
+import Keyboard from "./Keyboard";
 
 class Calculator extends Component {
   state = {};
@@ -8,7 +8,7 @@ class Calculator extends Component {
     return (
       <div>
         <Display />
-        <Keybord />
+        <Keyboard />
       </div>
     );
   }
